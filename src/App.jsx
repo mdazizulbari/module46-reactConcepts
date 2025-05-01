@@ -9,7 +9,7 @@ import FamilyTree from "./Components/familyTree/FamilyTree";
 
 function App() {
   return (
-    <div className="h-screen flex flex-col items-center justify-center">
+    <div>
       <h1 className="text-4xl">React Form</h1>
       {/* <SimpleForm /> */}
       {/* <FormAction/> */}
